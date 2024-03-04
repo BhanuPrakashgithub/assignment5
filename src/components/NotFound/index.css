@@ -1,0 +1,16 @@
+.ultra {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.head4 {
+  color: white;
+  font-family: 'Roboto';
+}
+.para4 {
+  color: white;
+  font-family: 'Roboto';
+}

@@ -1,0 +1,60 @@
+.diary {
+  list-style-type: none;
+  background-color: #475569;
+  border-radius: 15px;
+  margin: 20px;
+  max-width: 80%;
+}
+.star {
+  color: white;
+  margin: 0px;
+}
+.often {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.image5 {
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+}
+.horse {
+  display: flex;
+  flex-direction: column;
+}
+.rows {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.tail {
+  color: white;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.camel {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.tail1 {
+  color: white;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.tail2 {
+  color: white;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.tail4 {
+  color: white;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.tail3 {
+  color: white;
+  font-family: 'Roboto';
+  margin: 10px;
+}

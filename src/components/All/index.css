@@ -1,0 +1,61 @@
+.desert {
+  display: flex;
+  width: 40%;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  background-color: transparent;
+}
+.forest {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-size: cover;
+}
+.cat {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.image4 {
+  width: 100px;
+}
+.head6 {
+  color: #6366f1;
+}
+.para6 {
+  color: #64748b;
+}
+.hot {
+  color: white;
+  margin: 10px;
+}
+.head7 {
+  color: white;
+  font-family: 'Roboto';
+}
+.list1 {
+  display: flex;
+  flex-direction: column;
+}
+.list2 {
+  display: flex;
+  flex-direction: row;
+}
+.label {
+  color: white;
+  margin: 15px;
+}
+.but4 {
+  width: 150px;
+  background-color: blue;
+  border-radius: 10px;
+  border-width: 0px;
+  color: white;
+}
+.sofa{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

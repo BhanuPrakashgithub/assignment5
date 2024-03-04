@@ -1,0 +1,35 @@
+.mega {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #64748b;
+}
+.image2 {
+  width: 100px;
+  margin: 20px;
+  margin-right: auto;
+}
+.power {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.cars {
+  list-style-type: none;
+}
+.power1 {
+  color: white;
+  margin: 10px;
+}
+.but2 {
+  color: white;
+  background-color: #4f46e5;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  border-width: 0px;
+  margin: 15px;
+  align-self: center;
+  margin-left: auto;
+}
